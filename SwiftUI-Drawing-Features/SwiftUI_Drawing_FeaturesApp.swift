@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftUI_Drawing_FeaturesApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ExampleUsageView()
         }
     }
 }
